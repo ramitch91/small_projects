@@ -15,7 +15,7 @@ try:
 except ImportError:
     print('This program requires the bext module, which you')
     print('can install by following the instructions at')
-    print('htpps://pypi.org/project/Bext')
+    print('https://pypi.org/project/Bext')
     sys.exit()
 
 # Set up the constants:
